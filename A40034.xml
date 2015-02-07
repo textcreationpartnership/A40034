@@ -300,7 +300,19 @@ same kinde.</p>
                <p>An Example in Numbers like his 10<hi rend="sup">th</hi>. <hi>Prop.</hi>
                </p>
                <p>As 15 to 5, So 7 to what?</p>
-               <figure/>
+               <p>Here, because the second terme is lesse than the
+<pb n="2" facs="tcp:34351:6"/>
+first, upon the line AB, I set AC the first terme
+15, and AD the second terme 5, both taken out of
+the Scale of equall parts. Thence also the third
+number 7 being taken, with it (upon the center C)
+I describe the arke EF, and from A, draw the line
+AE, which may only touch that same arke. Then
+from D, I take DG, the least distance from the
+line AE, and the same measured in the same Scale
+of equall parts, gives 2 ½, the fourth terme re<g ref="char:EOLhyphen"/>quired.
+<figure/>
+               </p>
                <p>But if your second terme shall be greater than
 the first, then the form of working must be chang<g ref="char:EOLhyphen"/>ed;
 as in this Example.</p>
@@ -370,7 +382,18 @@ Secondly, that if two angles be known, then is the
 third also known; because it is the residue of the
 sum of the other two to 180 <hi>gr.</hi>
                </p>
-               <figure/>
+               <p>One case which is of frequent use may here be
+given for an example. In mensurations of distances
+of places (as Towns or Forts) there are usually two
+stations taken as A and B, whose distance AB
+<pb n="5" facs="tcp:34351:7"/>
+suppose known, 300 feet, and the two angles adja<g ref="char:EOLhyphen"/>cent,
+at A 105 <hi>gr.</hi> at B 60 <hi>gr.</hi> known also by ob<g ref="char:EOLhyphen"/>servation.
+To finde the other sides, draw AB, and
+upon it set 300 being taken from the Scale of equall
+parts.
+<figure/>
+               </p>
                <p>Then with a line of Chords protract the angles
 at A and B according to their known quantities, so
 shall the two legges of the same angles meet at C:
@@ -389,7 +412,10 @@ is made, should be levell, as if you work by
 the Square it is most commonly required; neither
 are you tyed to right angled Triangles here, as there
 you are. As for example,</p>
-               <figure/>
+               <p>
+                  <pb n="6" facs="tcp:34351:8"/>
+                  <figure/>
+               </p>
                <p>If one station be at A, and the other at B, you
 may, by the precedent work get the distance AD.
 Then (standing at A) observe the altitude of C, the
@@ -517,7 +543,11 @@ of 51 from your Scale, and set it from 50 to
 and set it upon your Chart from 51 to 52, and so
 draw the parallel 52 52. And so you are to draw
 the rest of the parallels.</p>
-                  <figure/>
+                  <p>Then for the Meridians, or divisions of the line
+BC, they are all equall to the Radius.
+<pb n="11" facs="tcp:34351:10"/>
+                     <figure/>
+                  </p>
                   <p>
                      <pb n="12" facs="tcp:34351:11"/>
 If therefore you take the Radius, and run it above
@@ -633,7 +663,13 @@ differing 5½ <hi>gr.</hi> in Longitude.</p>
                   <p>But if the two places differ only in Latitude, and
 lie under one Meridian, as A and B, then the course
 is North or South.</p>
-                  <figure/>
+                  <p>But if the places differ both in Longitude and
+Latitude as AC, then the course is upon some other
+point so much distant from the Meridian, as is the
+quantity of the angle BAC.
+<pb n="16" facs="tcp:34351:13"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="6" type="chapter">
@@ -686,7 +722,30 @@ the center whereof will alwayes fall in the line CP
 if it were extended, and this arke DGK shall be
 the line of the Suns course when his Declination is
 20 <hi>gr.</hi> from the Equinoctiall Northward.</p>
-               <figure/>
+               <p>Thirdly, Supposing the Altitude of the Sun to
+be 50 <hi>gr.</hi> take 25 <hi>gr.</hi> (the Semitangent of the Alti<g ref="char:EOLhyphen"/>tude)
+out of the line of Tangents, and set that di<g ref="char:EOLhyphen"/>stance
+from C to F. Also take 50 <hi>gr.</hi> (the Alti<g ref="char:EOLhyphen"/>tude)
+from your line of Chords, and set them upon
+the Meridian from H unto A, and from O unto B,
+drawing the arke AFB, the center whereof will fall
+in the line CZ being extended, and this arke shall
+represent the Almicanter of 50 <hi>gr.</hi> And where
+this parallel of Altitude crosseth the parallel of De<g ref="char:EOLhyphen"/>clination,
+which is at <hi>S,</hi> that is the place of the Sun
+at the time of the Question: Therefore, if you draw
+<pb n="19" facs="tcp:34351:14"/>
+                  <figure/>
+the arke of a circle which shall passe through the
+points MSP, it shall represent the houre of the day;
+and another arke through ZSN shall represent the
+Azimuth of the Sun at the same time. And the
+distance CT being measured on the Tangent line
+will fall upon 20 <hi>gr.</hi> 4', the double whereof is
+<pb n="20" facs="tcp:34351:15"/>
+40 <hi>gr.</hi> 8', which is the Azimuth of the Sun from the
+East or West, and the complement thereof to 90 <hi>gr.</hi>
+is the Suns Azimuth from the South.</p>
                <p>¶1. The centers of the parallels of declination,
 and of the parallels of altitude, may readily
 be fouud by the Scale it selfe; as in this pro<g ref="char:EOLhyphen"/>jection,
@@ -709,7 +768,12 @@ your Scale the Secant complement of the
 Declination, and setting it from C, upon the
 line CP, (being extended) and where that
 distance ends, that is the center of the parallel.</p>
-               <figure/>
+               <p>Or the Tangent complement of the Declination
+being set from G on the line GP shall give
+the center also.
+<pb n="21" facs="tcp:34351:15"/>
+                  <figure/>
+               </p>
                <p>¶2. For the finding of the centers of the Hours
 and Azimuths, the Scales of Secants and
 Tangents will much help you; So the Azi<g ref="char:EOLhyphen"/>muth
@@ -899,7 +963,33 @@ made to all houres, the Sun being in any Signe
 of the Zodiacke, whereby many particular Instru<g ref="char:EOLhyphen"/>ments
 for finding the houre of the day, may be made,
 as Rings, Quadrants, Cylinders<g ref="char:punc">▪</g> and such like.</p>
-                  <figure/>
+                  <p>Draw the line AB, and upon it, with CA or C
+B, equall to halfe your Scale, describe a Semicircle.
+Then count upon your Scale the Suns distance
+from the North Pole, as was done in the 3. <hi>Sect.</hi> of
+this <hi>Chapt.</hi> and in the same manner also finde the
+summe and difference of this distance and the com<g ref="char:EOLhyphen"/>plememt
+<pb n="29" facs="tcp:34351:19"/>
+                     <figure/>
+of your Latitude. Then take the distance
+of the said sum and difference in your Compasses,
+and set it upon the Semicircle from A to D, and
+draw BD. Now because AB is equall to your
+whole Scale, you may divide the same into houres,
+by transferring each 15' <hi>gr.</hi> from your Scale to the
+line. This done, take the least distance from the
+point 1 to the line BD, and set one foot of this di<g ref="char:EOLhyphen"/>stance
+upon the forenamed difference counted upon
+the Scale, and let the other foot stand further on<g ref="char:EOLhyphen"/>wards
+upon the Scale, and where it falls, it sheweth
+how many degrees that houre of 1 is distant from
+the Zenith. Or if you count the degrees from the
+middle of the Scale, it shews the Altitude of the
+Sun in that Houre. Thus doe for the points of
+2, 3, 4, &amp;c. and you shall in the same manner
+finde their Altitude: And if you go on to the end,
+you shall (most commonly) finde your Compasses
+at last to reach beyond the middle of the Scale.</p>
                   <p>
                      <pb n="30" facs="tcp:34351:20"/>
 [This alwayes, and then only, happens, when the
@@ -952,7 +1042,11 @@ for a fourth proportionall to the former.</p>
                <head type="sub">How to work proportions in Sines and
 Tangents, by the lines of Versed-Sines
 and <g ref="char:circdot">⊙</g>.</head>
-               <figure/>
+               <p>DEscribe a Circle, as ABD, of the same Ra<g ref="char:EOLhyphen"/>dius
+with the line <g ref="char:circdot">⊙</g>. The Versed Scale is in
+length four times the same Radius.
+<figure/>
+               </p>
                <p>Let the Sines (given or required) be measured out
 of <g ref="char:circdot">⊙</g>, and let them be set upon the Radius from A,
 to AC or AE.</p>
@@ -970,7 +1064,22 @@ another right line from O to D or to E.</p>
                <p>So the fourth terme required shall be either the
 Sine AE, or the Tangent AD, each to be measu<g ref="char:EOLhyphen"/>red
 in its proper Scale.</p>
-               <figure/>
+               <p>
+                  <figure/>
+If the Radius be ingre<g ref="char:EOLhyphen"/>dient
+in the proportion,
+then this of Sines and
+Tangents may be wrought
+by the draught of one
+line: see this third Scheme.
+The Sine is to be taken or
+set on the Radius from A,
+as AF, the Tangents are
+to be set and taken upon
+the Circle (in this case alwayes) the lesser of them
+from A, the greater from P; as AG and PH. So
+that whatsoever is given or required will here be
+found.</p>
                <p>The further use of this line is shewn afterwards
 in the making of declining reclining Dials.</p>
             </div>
@@ -1112,16 +1221,22 @@ will give the points or distances 12 1; 6 5; and
 South-decliner; the like may be done upon the
 North-decliner. Lastly, from the center A, through
 these points you must draw the Houre-lines.</p>
-               <figure>
-                  <p>An upright plain declining from
+               <p>
+                  <pb n="38" facs="tcp:34351:24"/>
+                  <figure>
+                     <p>An upright plain declining from
 the South towards the East, 30 <hi>gr.</hi>
-                  </p>
-               </figure>
-               <figure>
-                  <p>An upright plain declining from
+                     </p>
+                  </figure>
+               </p>
+               <p>
+                  <pb n="39" facs="tcp:34351:24"/>
+                  <figure>
+                     <p>An upright plain declining from
 the North towards the East, 30 <hi>gr.</hi>
-                  </p>
-               </figure>
+                     </p>
+                  </figure>
+               </p>
                <list>
                   <head>In both these Plains.</head>
                   <item>
@@ -1146,8 +1261,34 @@ parallelog.</head>
                <head>CHAP. XI.</head>
                <head type="sub">Of the Horizontall and full South
 Dials.</head>
-               <figure/>
-               <figure/>
+               <p>THese are done more easily, for having made
+ZX for the line of 12, and WV perpendicu<g ref="char:EOLhyphen"/>lar
+thereto for the two sixes, in them both
+make ZX equall to the Radius, and in the Hori<g ref="char:EOLhyphen"/>zontall
+let ZV and ZW be equall (each of them) to
+<figure/>
+the Sine of your Latitude: in the South plain let
+ZV and ZW be (each of them) equall to the co<g ref="char:EOLhyphen"/>sine
+of your Latitude. Then draw the lines XV
+and XW, and divide them as was now shewed in
+the declining plains; so may you from the center Z,
+<pb n="41" facs="tcp:34351:25"/>
+and these points, draw all the houres, as you see
+in these figures.</p>
+               <p>
+                  <figure/>
+The Styles are
+to stand over the
+line of 12: that
+in the Horizon<g ref="char:EOLhyphen"/>tall
+must be ele<g ref="char:EOLhyphen"/>vated
+so much
+as your Latitude
+comes to; the o<g ref="char:EOLhyphen"/>ther
+according
+to the comple<g ref="char:EOLhyphen"/>ment
+of your
+Latitude.</p>
                <p>The upright North plain is the same with the
 South, only turned upside down, and the course of
 the figures altered.</p>
@@ -1298,9 +1439,19 @@ West re / in-cliners, it is the same with the horizontall
 line. In the rest, it ascendeth or descendeth from
 the horizontall line, and must be placed according
 to the rules hereafter given.</p>
-               <figure>
-                  <p>I.</p>
-               </figure>
+               <p>3. For which purpose, In the Circle FZFN (made
+of the same Radius with that of Sines and Tangents,
+&amp;c. upon the Ruler) set FP, ZAE, FP, NAE,
+<pb n="47" facs="tcp:34351:28"/>
+each equall to your Poles altitude. Then count
+the Reclination or Inclination from Z downwards,
+towards P if it be North, towards AE if it be South;
+and there set B. Then proceed by one of these two
+wayes.
+<figure>
+                     <p>I.</p>
+                  </figure>
+               </p>
                <list>
                   <item>ZB <hi rend="sup">iein</hi>-clination.</item>
                   <item>BG♒ZO</item>
@@ -1315,9 +1466,12 @@ to the rules hereafter given.</p>
                   <item>OR co-sine of new Declination.</item>
                   <item>DS Sine of Meridians ascension or descension.</item>
                </list>
-               <figure>
-                  <p>II.</p>
-               </figure>
+               <p>
+                  <pb n="48" facs="tcp:34351:29"/>
+                  <figure>
+                     <p>II.</p>
+                  </figure>
+               </p>
                <list>
                   <item>ZB <hi rend="sup">rein</hi>-clination.</item>
                   <item>BG♒ZO.</item>
@@ -1616,10 +1770,13 @@ the centers to those equall divisions, draw out lines
 to cut their respective contingent lines in 12, 11,
 10, &amp;c. And from each correspondent houre, you
 must draw the lines 12 12, 11 11, 10 10, &amp;c.</p>
-               <figure>
-                  <p>An Vpright Plaine declining from
+               <p>
+                  <pb n="57" facs="tcp:34351:33"/>
+                  <figure>
+                     <p>An Vpright Plaine declining from
 South towards East 80 gr.</p>
-               </figure>
+                  </figure>
+               </p>
                <l>Difference of Longitude 82<hi rend="sup">d</hi> 08'</l>
                <l>South Pole elevated 6 12</l>
             </div>
@@ -1811,7 +1968,56 @@ other numbers, 7 52, 22 52, 37 52, &amp;c. and
 take them off thence severally, and place them from
 Sat <hi>f, g, h, i.</hi>
                </p>
-               <figure/>
+               <p>
+                  <pb n="62" facs="tcp:34351:36"/>
+After this, take 45 <hi>gr.</hi> out of your Tangent Scale,
+and place it upon this line from S to K both wayes.
+Then (as in the 19 <hi>Chap.)</hi> take the least distance
+<figure/>
+from the point S (in
+your Diall) to GH
+the fiduciall edge of
+your style, and set<g ref="char:EOLhyphen"/>ting
+one foot of that
+extent upon K, with
+the other describe
+the arke MP, and
+from S draw the
+lines SP only touch<g ref="char:EOLhyphen"/>ing
+the said arks.
+Being thus fitted,
+you must from <hi>a, b,
+c, d, e,</hi> take the least
+distances to the line
+LP, and set them
+(respectively) upon
+the contingent line
+of your Diall, from
+S to 7, 8, 9, 10, 11,
+And again, the least
+distances from <hi>f, g,
+h, i,</hi> to the line PS,
+will give the poins
+6, 5, 4, 3, upon the
+same contingent line
+of your Diall. Thus
+is one of the contin<g ref="char:EOLhyphen"/>gent
+lines divided
+<pb n="63" facs="tcp:34351:36"/>
+into his requisite houres. The like work must be
+done with the other. For you must take the least
+distance from the point R (in your Diall) to GH the
+fiduciall edge of your style, and setting one foot of
+that extent upon K, with the other describe the arke
+TV, and draw the touch-line SV. Then from
+<hi>a, b, c, d, e,</hi> take the least distance to SV, and set
+them on your Diall from R to 7, 8, 9, 10, 11.
+So from <hi>f, g, h, i,</hi> take the least distances, and set
+them from R to 6, 5, 4, 3, by which means you
+have the other contingent line divided into its re<g ref="char:EOLhyphen"/>quisite
+hours. The rest of the work for finishing
+the Diall will be the same with that in the 17 <hi>Chap.</hi>
+               </p>
                <p>But because the tangents upon the Scale goe but
 to 63 <hi>gr.</hi> 26', it must therefore here be shewed
 how those that exceed that quantity may be sup<g ref="char:EOLhyphen"/>plyed.
@@ -1867,7 +2073,23 @@ of</head>
                      <item>The plains Verticall distance.</item>
                   </list>
                   <figure/>
-                  <figure/>
+                  <p>Then take halfe the length of your Versed Scale;
+and with that Radius (upon the center C) describe
+the Semicircle ADB. Afterwards, upon the
+same Scale, count the former summe and difference,
+and take the length betwixt them, and set it from A
+<pb n="66" facs="tcp:34351:38"/>
+to D, and draw BD. Also count (upon the same
+Scale) the angle of the plains declination, and set
+that length from B to E, and take the least distance
+from E to BD. This least distance being rightly
+applyed to the Scale, namely, from the fore-named
+difference forward upon the Scale, will give the di<g ref="char:EOLhyphen"/>stance
+of the plains Pole from the North Pole,
+which is to be made use of hereafter, and is called,
+The Polar distance.
+<figure/>
+                  </p>
                   <p>And observe likewise, that</p>
                   <p>If the point of your Compasses (applyed to the
 Scale) doe fall just upon 90, then is your
@@ -1977,7 +2199,36 @@ North pole. But if the South pole be elevated,
 then the center of the Diall is to be set upward, and
 the style comming from thence must point down<g ref="char:EOLhyphen"/>wards
 into the South Pole.</p>
-                  <figure/>
+                  <p>This being remembred, you may upon paper draw
+the right line ACB, and upon C as the center,
+with the extent of the line <g ref="char:circdot">⊙</g> taken from your Scale,
+describe a circle.
+If then the
+<list>
+                        <item>North pole</item>
+                        <item>South pole</item>
+                     </list>
+be ele<g ref="char:EOLhyphen"/>vated,
+<figure/>
+                     <pb n="71" facs="tcp:34351:40"/>
+let the center of your Diall be
+<list>
+                        <item>below at B,</item>
+                        <item>above at A,</item>
+                     </list>
+and the poles elevation (taken from the Scale ☉) must
+be set betwixt A and C, B and C, namely, at the mark ☉. Then (counting halfe your Versed Scale as a line of
+90 Chords, beginning at 90, and ending at 00, or
+180) from that end of the diameter A or B which is
+the center of your Diall, set off your difference of
+Longitude (taken out of the Versed Scale as it was
+now taken for Chords) that way to which the plain
+declineth, set it off at M, this point M is the point
+of 12. Then from M, divide your circle into 12 e<g ref="char:EOLhyphen"/>quall
+parts, at <hi>a, b, c, d, e, f, g, h, i, k, l,</hi> and from
+each of those points through the point <g ref="char:circdot">⊙</g> make
+touches of right lines, cutting again the same circle
+on the opposite part into 12 unequall parts.</p>
                   <figure/>
                   <p>
                      <pb n="72" facs="tcp:34351:41"/>
@@ -2135,41 +2386,44 @@ of the South Pole.</p>
                   <p>¶Note, that the three figures following have
 relation to the three Columns of the forego<g ref="char:EOLhyphen"/>ing
 Table; and to these rules last delivered.</p>
-                  <figure>
-                     <head>Figure I.</head>
-                     <p>
-                        <list>
-                           <head>In this first Figure</head>
-                           <item>C A D 62 49</item>
-                           <item>C B 34 13</item>
-                           <item>E P 122 00</item>
-                        </list>
-                     </p>
-                  </figure>
-                  <figure>
-                     <pb n="77" facs="tcp:34351:43"/>
-                     <head>Figure II.</head>
-                     <p>
-                        <list>
-                           <head>In this second Figure</head>
-                           <item>C A D 110 29</item>
-                           <item>C B 42 19</item>
-                           <item>E P 36 28</item>
-                        </list>
-                     </p>
-                  </figure>
-                  <figure>
-                     <pb n="78" facs="tcp:34351:44"/>
-                     <head>Figure III.</head>
-                     <p>
-                        <list>
-                           <head>In this third Figure</head>
-                           <item>C A D 118 26</item>
-                           <item>C B 44 56</item>
-                           <item>E P 14 00</item>
-                        </list>
-                     </p>
-                  </figure>
+                  <p>
+                     <pb n="76" facs="tcp:34351:43"/>
+                     <figure>
+                        <head>Figure I.</head>
+                        <p>
+                           <list>
+                              <head>In this first Figure</head>
+                              <item>C A D 62 49</item>
+                              <item>C B 34 13</item>
+                              <item>E P 122 00</item>
+                           </list>
+                        </p>
+                     </figure>
+                     <figure>
+                        <pb n="77" facs="tcp:34351:43"/>
+                        <head>Figure II.</head>
+                        <p>
+                           <list>
+                              <head>In this second Figure</head>
+                              <item>C A D 110 29</item>
+                              <item>C B 42 19</item>
+                              <item>E P 36 28</item>
+                           </list>
+                        </p>
+                     </figure>
+                     <figure>
+                        <pb n="78" facs="tcp:34351:44"/>
+                        <head>Figure III.</head>
+                        <p>
+                           <list>
+                              <head>In this third Figure</head>
+                              <item>C A D 118 26</item>
+                              <item>C B 44 56</item>
+                              <item>E P 14 00</item>
+                           </list>
+                        </p>
+                     </figure>
+                  </p>
                </div>
                <div n="3" type="section">
                   <pb n="79" facs="tcp:34351:44"/>
